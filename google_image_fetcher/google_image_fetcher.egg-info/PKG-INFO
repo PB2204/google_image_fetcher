@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: google-image-fetcher
+Version: 1.0.0
+Summary: A Python library for fetching images from Google.
+Home-page: https://github.com/pb2204/google_image_fetcher
+Author: Pabitra Banerjee
+Author-email: rockstarpabitra2204@gmail.com
+License: MIT
