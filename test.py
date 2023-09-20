@@ -4,7 +4,7 @@ from google_image_fetcher.google_image_fetcher import GoogleImageFetcher
 fetcher = GoogleImageFetcher()
 
 # Define the search query
-query = "Pabitra Banerjee"
+query = "cats"
 
 # Fetch and save images
-fetcher.fetch_images(query, save_folder="pab")
+fetcher.fetch_images(query, save_folder="images")
