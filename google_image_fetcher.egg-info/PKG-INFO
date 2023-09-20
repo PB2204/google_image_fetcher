@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: google-image-fetcher
+Version: 1.0.0
+Summary: Fetch & Download Images From Google
+Author: PB2204 (Pabitra Banerjee)
+Author-email: <rockstarpabitra2204@gmail.com>
+Keywords: python,image,fetch,web scrapping,image scrapping
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: os
+Requires-Dist: requests
+
+
+# google_image_fetcher
+
+Google Image Fetcher is a Python library that allows you to fetch images from Google Search using the Custom Search JSON API.
+
+## Installation
+
+You can install this library using pip:
+
+```bash
+pip install google_image_fetcher
+```
