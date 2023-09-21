@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: google-image-fetcher
-Version: 1.0.0
+Version: 1.0.1
 Summary: Fetch & Download Images From Google
 Author: PB2204 (Pabitra Banerjee)
 Author-email: <rockstarpabitra2204@gmail.com>
@@ -13,7 +13,6 @@ Classifier: Operating System :: MacOS :: MacOS X
 Classifier: Operating System :: Microsoft :: Windows
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Requires-Dist: os
 Requires-Dist: requests
 
 
