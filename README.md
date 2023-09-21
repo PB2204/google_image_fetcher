@@ -9,3 +9,7 @@ You can install this library using pip:
 ```bash
 pip install google_image_fetcher
 ```
+or 
+```bash
+pip install google-image-fetcher
+```
