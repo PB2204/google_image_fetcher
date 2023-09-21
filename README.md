@@ -19,6 +19,7 @@ google_image_fetcher/
 │   └── google_image_fetcher.py
 │
 ├── CONTRIUTING.md
+├── LEARN,md
 ├── LICENSE
 ├── README.md
 └── setup.py
