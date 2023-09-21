@@ -18,9 +18,10 @@ google_image_fetcher/
 │   ├── __init__.py
 │   └── google_image_fetcher.py
 │
-├── setup.py
+├── CONTRIUTING.md
+├── LICENSE
 ├── README.md
-└── LICENSE
+└── setup.py
 ```
 
 ## setup.py
