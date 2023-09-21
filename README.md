@@ -97,6 +97,6 @@ Now you're ready to use the images .
 
 ## Contribution
 
-If you want to contribute something please follow the [CONTRIUTING.md](https://github.com/pb2204/google_image_fetcher/contributing.md).
+If you want to contribute something please follow the [CONTRIUTING.md](https://github.com/PB2204/google_image_fetcher/blob/main/CONTRIBUTING.md).
 
 # Happy Coding 🚀
