@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = '1.0.1'
+VERSION = '1.1.0'
 DESCRIPTION = 'Fetch & Download Images From Google'
 LONG_DESCRIPTION = 'Google Image Fetcher is a Python library that allows you to fetch images from Google Search using the Custom Search JSON API.'
 
@@ -27,7 +27,7 @@ setup(
         "Development Status :: 1 - Planning",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
-        "Operating System :: Unix",
+        "Operating System :: Unix :: Linux",
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Microsoft :: Windows",
     ]
