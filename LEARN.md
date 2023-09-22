@@ -62,5 +62,3 @@ Refer to the [CONTRIBUTING.md](https://github.com/PB2204/google_image_fetcher/bl
 
 Google Image Fetcher is licensed under the MIT License. You can find the full text of the license in the [LICENSE](https://github.com/PB2204/google_image_fetcher/blob/main/LICENSE) file.
 ```
-
-This `LEARN.md` file provides a simplified set of instructions for building and using the Google Image Fetcher project. You can customize it further with specific details if needed.
