@@ -55,7 +55,7 @@ setup(
     install_requires=['requests','python-dotenv'],
     keywords=['python', 'image', 'fetch', 'web scrapping', 'image scrapping'],
     classifiers=[
-        "Development Status :: 1 - Planning",
+        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
