@@ -9,6 +9,7 @@ Frontend Developers faces a problem , when they develop any website , that is IM
 I want to develop this library for non-python programmers also . Here You can use this library , without any knowledge of Python Programming .
 
 Here after following all the steps , you will be able to use the images , which will be downloaded according to your prompt / query . Also you can see the `URL` of those images in the terminal below .
+
 ## Structure Of The Project
 
 ```bash
@@ -51,7 +52,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
-    install_requires=['requests'],
+    install_requires=['requests','python-dotenv'],
     keywords=['python', 'image', 'fetch', 'web scrapping', 'image scrapping'],
     classifiers=[
         "Development Status :: 1 - Planning",
@@ -71,7 +72,9 @@ You can install this library using pip:
 ```bash
 pip install google_image_fetcher
 ```
+
 or
+
 ```bash
 pip install google-image-fetcher
 ```
